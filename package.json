@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "fastify": "^5.12.7",
-    "sql-formatter": "^15.9.0"
+    "sql-formatter": "^15.10.0"
   },
   "devDependencies": {
     "@types/node": "^24.19.2",
